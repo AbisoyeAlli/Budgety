@@ -1,2 +1,2 @@
 # Budgety
-a simple budget web app written with pure js
+a simple budget web app written in vanilla js
